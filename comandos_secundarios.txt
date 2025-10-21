@@ -6,5 +6,11 @@ Este arquivo contém informações adicionais para git
 # Comandos mais genéricos
 - comandos estranhos
 
+# Mais comandos! ! !
+
+12345
+qwert
+1q2w3e4r5t
+
 
 
