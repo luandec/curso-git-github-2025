@@ -1,0 +1,3 @@
+ls -> lista arquivos
+cd -> muda de diretório
+pwd -> mostra o caminho do diretório
