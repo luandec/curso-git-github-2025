@@ -116,5 +116,7 @@ Pessoas participantes:
 
 \- Téo Calvo
 
-Confira tudo que temos no YouTube do curso.
+Confira tudo que temos no YouTube do curso. Segue o link:
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
